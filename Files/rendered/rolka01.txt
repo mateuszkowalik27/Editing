@@ -1,0 +1,116 @@
+PLAN MONTAŻU – ROLKA 01 (trainingraw01.mp4, 0:33, 1080×1920)
+
+KOLORYSTYKA: Złoto i czerń
+- Tło animacji: #0b0b0c
+- Karta / szkło: #17171a
+- Tekst główny: #f5f1e8
+- Akcent (słowa-klucze): #c9a45c
+- Drugi akcent: #8a7a5a
+
+FONTY:
+- Nagłówki: Unbounded
+- Słowa-klucze: Instrument Serif (kursywa)
+- Napisy: Bebas Neue
+
+NAPISY:
+- Napisy: Włączone
+- Pozycja: Pod twarzą
+- Słów w linii: 2–3
+- Animacja: Podświetlanie słowa
+- Wielkość: Średnia
+- Litery: Normalne
+- Słowo-klucz szeryfem: Tak
+- Sound design: Standard
+
+ELEMENTY UROZMAICAJĄCE:
+- Punch-in na słowach-kluczach
+- Powolny push-in
+- Smugi światła
+- Szklane karty
+- Logo marek
+- Animowane liczby
+- Oś czasu pasji
+- Re-hook w połowie
+- Podkreślanie słów w napisach
+- CTA na końcu
+
+SEGMENTY:
+
+01 [0:00.26–0:02.38] ujęcie: przód
+Tekst: I don't go anywhere without a *watch.*
+Wariant: Pełna kamera
+Animacja: Hook. Start od mocnego punch-in na twarz, na słowie „watch” duży napis z akcentem szeryfowym i krótki błysk światła.
+Tekst na ekranie: NEVER WITHOUT A WATCH
+Kamera: punch-in 100→112% na słowie-kluczu
+SFX: Impact 03, Whoosh 02
+Napisy: tak
+
+02 [0:02.46–0:06.48] ujęcie: bok
+Tekst: Even if I'm going abroad literally for a few days, I'm bringing a *watch* *roll* with me.
+Wariant: Kamera + anim.
+Animacja: Pod napisami wjeżdża szklana karta z ikoną etui na zegarki i podpisem „watch roll”. Lekki push-in przez cały segment.
+Tekst na ekranie: watch roll
+Kamera: powolny push-in 100→105%
+SFX: Swipe 03
+Napisy: tak
+
+03 [0:06.48–0:10.36] ujęcie: bok
+Tekst: Watches are something that I've been infatuated with from the time I was *eight* years old.
+Wariant: Za postacią
+Animacja: Za bohaterem pojawia się ogromna cyfra „8” w kolorze akcentu, lekko rozmyta. Start osi czasu pasji: 8 lat.
+Tekst na ekranie: 8
+Kamera: bez ruchu
+SFX: Riser 04, Boom 08
+Napisy: tak
+
+04 [0:10.42–0:17.76] ujęcie: bok → przód (cięcie 0:12)
+Tekst: I bought my first *Timex* for *15* *pounds.* I remember I got it from Argos here in London. Saved up for a couple weeks for it.
+Wariant: Split screen
+Animacja: Górna połowa: karta z ceną „£15” liczona od zera, pod nią podpis „Timex · Argos, London”. Na cięciu do ujęcia z przodu punch-in maskuje zmianę kadru.
+Tekst na ekranie: £15 · first Timex
+Kamera: punch-in 100→112% na słowie-kluczu
+SFX: Cash Register 02, Pop 03
+Napisy: tak
+
+05 [0:17.82–0:21.42] ujęcie: przód
+Tekst: And my watch collecting journey really started when I was *18* and I bought my first *Rolex.*
+Wariant: Full screen
+Animacja: Na słowie „Rolex” pełny ekran: logo Rolexa z biblioteki na ciemnym tle, oś czasu przeskakuje z 8 na 18 lat.
+Tekst na ekranie: 18 · first Rolex
+Kamera: bez ruchu
+SFX: Impact 01, Whoosh 13
+Napisy: tak
+
+06 [0:21.44–0:25.52] ujęcie: przód → bok (cięcie 0:21)
+Tekst: So at this point I probably owned *50* *plus* watches.
+Wariant: Kamera + anim.
+Animacja: Licznik pod napisami od 0 do 50+, w tle siatka małych tarcz zegarków. To jest re-hook w połowie rolki.
+Tekst na ekranie: 50+ watches
+Kamera: powolny push-in 100→105%
+SFX: Key Press 03, Boom 05
+Napisy: tak
+
+07 [0:25.70–0:30.84] ujęcie: bok → przód (cięcie 0:25)
+Tekst: On the wrist at the moment is my favorite piece ever. The *Patek* *Philippe* *Nautilus* *5711R.*
+Wariant: Za postacią
+Animacja: Za postacią logo Patka i elegancki napis szeryfowy „Nautilus 5711R” rozwijany litera po literze. Smuga światła przez kadr. Zakrywa wypalony napis z oryginału.
+Tekst na ekranie: Patek Philippe Nautilus 5711R
+Kamera: powolny push-in 100→105%
+SFX: Riser 08, Piano Hit 01
+Napisy: tak
+
+08 [0:31.00–0:33.24] ujęcie: przód
+Tekst: If I had to have *one* *watch* for the rest of my life, it would be this.
+Wariant: Pełna kamera
+Animacja: Spokojny zoom out, na końcu delikatne przyciemnienie i CTA na dole ekranu.
+Tekst na ekranie: Follow for more watch content
+Kamera: zoom out 110→100%
+SFX: Whoosh 05, Notification 02
+Napisy: tak
+
+CTA: Follow for more watch content
+
+Uwagi:
+-to pierwsza rolka która zrobiłem wiec miej to na uwadze
+-dużo rzeczy może się zmienić
+-co do zasady na chwilę obecną może być
